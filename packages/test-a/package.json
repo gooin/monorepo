@@ -10,5 +10,6 @@
     "registry": "https://npm.pkg.github.com"
   },
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "gitHead": "4a0863f162f6ad1b8fdc4f451c5eef164b64ccaf"
 }
