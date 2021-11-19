@@ -1,0 +1,7 @@
+build/**
+!build/README.md
+node_modules/**
+.svn/**
+package-lock.json
+yarn-error.log
+.idea/**

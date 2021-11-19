@@ -1,0 +1,13 @@
+{
+    "private": true,
+    "devDependencies": {
+        "lerna": "^4.0.0"
+    },
+    "scripts": {
+        "prepare": "lerna bootstrap && lerna run build"
+  
+      },
+    "publishConfig": {
+        "registry": "https://npm.pkg.github.com"
+    }
+}
