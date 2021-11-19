@@ -6,9 +6,5 @@
     "scripts": {
         "prepare": "lerna bootstrap && lerna run build",
         "publish": "lerna publish"
-
-      },
-    "publishConfig": {
-        "registry": "https://npm.pkg.github.com"
-    }
+      }
 }
