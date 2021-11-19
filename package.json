@@ -4,6 +4,6 @@
         "lerna": "^4.0.0"
     },
     "scripts": {
-        "prepare": "lerna bootstrap && lerna run build",
-      }
+        "prepare": "lerna bootstrap && lerna run build"
+    }
 }
