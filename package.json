@@ -5,5 +5,8 @@
     },
     "scripts": {
         "prepare": "lerna bootstrap && lerna run build"
-    }
+    },
+    "workspaces": [
+        "packages/*"
+    ]
 }
