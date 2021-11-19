@@ -9,7 +9,11 @@
   "publishConfig": {
     "registry": "https://npm.pkg.github.com"
   },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/gooin/monorepo.git"
+  },
   "author": "",
   "license": "ISC",
-  "gitHead": "7e1d663587136492c32e688105b67654670ded38"
+  "gitHead": "9dd754781940d12745d0cb9d95a23c9184d704be"
 }
