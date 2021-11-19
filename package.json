@@ -5,6 +5,5 @@
     },
     "scripts": {
         "prepare": "lerna bootstrap && lerna run build",
-        "publish": "lerna publish"
       }
 }
